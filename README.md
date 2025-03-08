@@ -3,14 +3,13 @@
 A simple To-Do List app built with **Kotlin, MVVM, Room Database, and Koin for Dependency Injection**. This app allows users to add, mark as completed, delete, and manage tasks efficiently.
 
 ## 🛠️ Features
-✅ Add tasks with a selected weekday  
-✅ View all tasks in a list  
-✅ Filter tasks based on selected weekdays
-✅ Mark tasks as completed (with strikethrough effect)  
-✅ Delete tasks individually  
-✅ Uses **MVVM architecture** with **Room Database**  
-✅ **Koin Dependency Injection** for managing ViewModels and Database
-
+✅ **Add Tasks** with a selected weekday  
+✅ **View All Tasks** in an organized list  
+✅ **Filter Tasks** based on selected weekdays  
+✅ **Mark Tasks as Completed** (with strikethrough effect)  
+✅ **Delete Tasks** individually  
+✅ Built using **MVVM Architecture** with **Room Database** for efficient data management  
+✅ **Koin Dependency Injection** for easy management of ViewModels and Database
 ---
 
 ## 📦 Tech Stack
@@ -23,5 +22,5 @@ A simple To-Do List app built with **Kotlin, MVVM, Room Database, and Koin for D
 
 ---
 
-## 📂 Video Recording
+## 🎥 Video Recording
 You can view the video recording of the app using [this link](https://drive.google.com/file/d/1BE1ENIsb5WCIi-TMjFwJzjrIHwHCDpTr/view?usp=sharing).
