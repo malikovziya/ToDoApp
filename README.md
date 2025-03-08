@@ -9,7 +9,8 @@ A simple To-Do List app built with **Kotlin, MVVM, Room Database, and Koin for D
 ✅ **Mark Tasks as Completed** (with strikethrough effect)  
 ✅ **Delete Tasks** individually  
 ✅ Built using **MVVM Architecture** with **Room Database** for efficient data management  
-✅ **Koin Dependency Injection** for easy management of ViewModels and Database
+✅ **Koin Dependency Injection** for easy management of ViewModels and Database  
+
 ---
 
 ## 📦 Tech Stack
