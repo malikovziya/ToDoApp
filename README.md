@@ -24,4 +24,4 @@ A simple To-Do List app built with **Kotlin, MVVM, Room Database, and Koin for D
 ---
 
 ## 📂 Video Recording
-You can view the video recording of the app using [this link](https://drive.google.com/file/d/1BE1ENIsb5WCIi-TMjFwJzjrIHwHCDpTr/view?usp=sharing)
+You can view the video recording of the app using [this link](https://drive.google.com/file/d/1BE1ENIsb5WCIi-TMjFwJzjrIHwHCDpTr/view?usp=sharing).
